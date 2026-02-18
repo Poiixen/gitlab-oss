@@ -21,13 +21,13 @@ AI Corps is CodePath’s advanced open-source engineering capstone program desig
 
 ### For Students
 - [Student Guide](#) — Program expectations, phase walkthroughs, and README template
-- [Weekly Submission (Typeform)](#) — Submit your progress every Wednesday and Sunday
+- [Weekly Submission (Typeform)](https://8jv7nzkftlz.typeform.com/to/IktTSGIa) — Submit your progress every Wednesday and Sunday
 
 ### For Mentors
 - [Mentor Guide](#) — Role overview, Discord primer, and best practices
 
 ### Communication
-- [Discord Server](#) — Program communication, phase-based support channels, and community
+- [Discord Server](https://discord.gg/YVVD9h9EJe) — Program communication, phase-based support channels, and community
 
 ---
 
@@ -72,4 +72,4 @@ All times are in **Eastern Time (ET)**.
 | Leo (he/him) | Operations Support | rogelio@codepath.org |
 | Rit (he/him) | Operations Support | ritwic@codepath.org |
 
-Questions? Reach out in the [Discord](#) or email the CodePath team directly.
+Questions? Reach out in the [Discord](https://discord.gg/YVVD9h9EJe) or email the CodePath team directly.
