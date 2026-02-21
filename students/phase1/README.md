@@ -137,7 +137,7 @@ For each of your 3 best options, open the full issue page and read:
 - The original issue description
 - All comments from maintainers or team members (look for the GitLab team badge)
 - Any linked merge requests (are there failed attempts you can learn from?)
-- The labels (confirm "Accepting merge requests" is present)
+- The labels (look for things like "quick win", "quick win::first-time contributor" which are dedicated labels for new contributors) or the context feels achievable for you.
 
 ---
 
@@ -158,7 +158,7 @@ The issue involves languages, frameworks, or patterns that you already know — 
 Look for these signals:
 - Maintainer or team member activity in the last 6 months
 - **Not** assigned
-- **Not** labeled "proposal," "needs discussion," "blocked," or "wontfix"
+- **Not** labeled "proposal," "needs discussion," "blocked," "wontfix" or any other labels that signal a deadend
 - No open merge request already solving it (check the MR tab on the issue)
 
 #### ✅ Check 5: There is helpful context.
