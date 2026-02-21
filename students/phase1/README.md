@@ -120,7 +120,7 @@ Maintained by the GitLab Contributor Success team. These are issues explicitly t
 #### Source 2: CodePath's Top Picks
 A curated list of issues hand-selected by your CodePath team and GitLab mentors. These are tethered to projects directly maintained by GitLab staff involved in this program — meaning you'll have access to people who know the codebase when you need help.
 
-→ [CodePath Curated Issues List](https://www.notion.so/beaed3f4289e42f38cf13bf16834a90e?v=ed1131fc6e1a469aaa312d32af67783e&source=copy_link)
+→ [CodePath Curated Issues List](https://www.notion.so/beaed3f4289e42f38cf13bf16834a90e?v=30c06d25e7488005af57000c1eb4aaa2)
 
 #### Source 3: GitLab's Full Issue Board
 The complete, unfiltered issue tracker. Powerful but overwhelming without filters. Only use this if nothing on the first two lists matches your interests — and if you do, use the filtering walkthrough later in this guide.
@@ -413,7 +413,7 @@ If you still don't have an issue by Day 4, the CodePath team will reach out to y
 | GitLab Contributor Onboarding | [contributors.gitlab.com](https://contributors.gitlab.com) |
 | README Template (source) | [Contribution README Template](https://gitlab.com/codepath-org/ai-corps/spring-2026-gitlab-ai301/-/blob/main/students/CONTRIBUTION-README.md?ref_type=heads) |
 | Create a New GitLab Project | [gitlab.com/projects/new](https://gitlab.com/projects/new#blank_project) |
-| CodePath Curated Issues List | [Notion](https://www.notion.so/beaed3f4289e42f38cf13bf16834a90e?v=ed1131fc6e1a469aaa312d32af67783e&source=copy_link) |
+| CodePath Curated Issues List | [Notion](https://www.notion.so/beaed3f4289e42f38cf13bf16834a90e?v=30c06d25e7488005af57000c1eb4aaa2) |
 | GitLab Starter Issues | [contributors.gitlab.com/issues](https://contributors.gitlab.com/issues) |
 | GitLab Full Issue Board | [gitlab.com/gitlab-org/gitlab/-/issues](https://gitlab.com/gitlab-org/gitlab/-/issues) |
 | GitLab Community Discord | [discord.gg/gitlab](https://discord.gg/gitlab) |
