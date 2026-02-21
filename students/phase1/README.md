@@ -71,6 +71,7 @@ Your **Contribution README** is the single most important artifact of this progr
 1. **Create a new personal project on GitLab** to host your README:
    - Go to [gitlab.com/projects/new](https://gitlab.com/projects/new#blank_project)
    - Name it something clear like `ai-corps-contribution` or `sp26-gitlab-contribution`
+   - If it asks you for a group use your personal username's group
    - Set visibility to **Public** (mentors and staff need to be able to view it)
    - Check **"Initialize repository with a README"**
    - Click **Create project**
