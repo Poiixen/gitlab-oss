@@ -89,7 +89,7 @@ Once your environment is running, create a branch in the **community fork** (not
 
 1. Clone the community fork if you haven't already (the onboarding issue you completed in Week 0 has the correct URL):
    ```bash
-   git clone https://gitlab.com/gitlab-community/gitlab.git
+   git clone https://gitlab.com/gitlab-community/gitlab-org/gitlab.git
    cd gitlab
    ```
 2. Make sure you're up to date:
