@@ -48,7 +48,7 @@ GitLab offers two paths. **Start with GDK-in-a-box** unless you have a specific 
 
 GDK-in-a-box packages the entire GitLab Development Kit into a **pre-configured container image** that you connect to with VS Code. This skips most of the manual installation and dependency headaches.
 
-→ [Configure GDK-in-a-box](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/gdk_in_a_box.md)
+→ [Configure GDK-in-a-box](https://docs.gitlab.com/development/contributing/first_contribution/configure-dev-env-gdk-in-a-box/)
 
 **Why start here:**
 - Avoids most Ruby/Node/PostgreSQL version conflicts
