@@ -50,7 +50,7 @@ git pull origin main
 
 # 4. Stage + Commit
 git add .
-git commit -m "describe what you changed"
+git commit -m "msg"
 
 # 5. Push to both
 git push origin main   # GitLab 
